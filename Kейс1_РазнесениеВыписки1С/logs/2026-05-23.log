@@ -1777,3 +1777,571 @@
 Пропущено: 0
 2026-05-23T18:21:13+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee40606c-0528-450d-aa57-6ff787df2f1f\main.py
 2026-05-23T18:21:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:37:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\Банковская выписка (Обработка).json
+2026-05-23T18:37:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\41cbb2ef-eb12-4c47-9add-e6ab47e35db9\node_530.py
+2026-05-23T18:37:04+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\41cbb2ef-eb12-4c47-9add-e6ab47e35db9\synth_656.py
+2026-05-23T18:37:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\41cbb2ef-eb12-4c47-9add-e6ab47e35db9\robo_190.py
+2026-05-23T18:37:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\41cbb2ef-eb12-4c47-9add-e6ab47e35db9\bot_719.py
+2026-05-23T18:37:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\41cbb2ef-eb12-4c47-9add-e6ab47e35db9\bushkov_758.py
+2026-05-23T18:37:05+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\41cbb2ef-eb12-4c47-9add-e6ab47e35db9\bushkov_758.py
+2026-05-23T18:37:05+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\Банковская выписка (Обработка).json
+2026-05-23T18:37:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:37:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\node_530.py
+2026-05-23T18:37:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py
+2026-05-23T18:37:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\robo_190.py
+2026-05-23T18:37:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py
+2026-05-23T18:37:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bot_719.py
+2026-05-23T18:37:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bushkov_758.py
+2026-05-23T18:37:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\main.py
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Подготовка конфигурации...
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Чтение файла конфигурации...
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Файл конфигурации найден
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Чтение файла конфигурации успешно
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Подготовка и валидация конфига...
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Значения по умолчанию заполнены
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Все обязательные поля в конфиге существуют
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Конфиг логически корректен
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Конфигурация дополнена и проверена
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\servo_940.py Конфигурация готова к работе
+2026-05-23T18:37:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\robo_190.py Инициализация 1С...
+2026-05-23T18:37:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\robo_190.py 1С запущен
+2026-05-23T18:37:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\robo_190.py Вход в 1С...
+2026-05-23T18:37:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\robo_190.py Отправка данных для логина...
+2026-05-23T18:37:55+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\robo_190.py Отправка данных успешна
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\robo_190.py Вход в 1С успешен
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py Чтение файла банковской выписки...
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py Файл банковской выписки найден
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py Чтение банковской выписки успешно
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py Валидация банковской выписки...
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py Банковская выписка готова к работе
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bushkov_758.py Обработка банковских данных...
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bushkov_758.py Начата обработка платежа: {'Дата': '2025-01-03', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счету', 'ИНН_контрагента': 7799091002, 'Организация': 'Конфетпром ООО'}
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py Валидация данных платежа...
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\synth_656.py Данные корректны
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bushkov_758.py Определение типа операции...
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\robo_190.py Заполнение банковской выписки...
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bot_719.py Запись результата...
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bot_719.py Запись успешно добавлена
+2026-05-23T18:38:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bushkov_758.py Произошла ошибка в строке: 175
+Описание ошибки: 'NoneType' object is not subscriptable
+2026-05-23T18:38:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bot_719.py Сохранение отчёта...
+2026-05-23T18:38:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bot_719.py Отчёт успешно сохранён
+2026-05-23T18:38:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\bot_719.py Обработка банковской выписки завершена.
+Всего строк: 24
+Успешно: 0
+Ошибок: 1
+Дубликатов: 0
+Пропущено: 0
+2026-05-23T18:38:25+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8e2a5f9d-4ef9-4dc3-9ec3-0e1ddca6dae2\main.py
+2026-05-23T18:38:26+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:40:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\Банковская выписка (Обработка).json
+2026-05-23T18:40:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\59256e1b-db6e-470d-a083-99cfeb388ce7\node_530.py
+2026-05-23T18:40:10+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\59256e1b-db6e-470d-a083-99cfeb388ce7\synth_656.py
+2026-05-23T18:40:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\59256e1b-db6e-470d-a083-99cfeb388ce7\robo_190.py
+2026-05-23T18:40:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\59256e1b-db6e-470d-a083-99cfeb388ce7\bot_719.py
+2026-05-23T18:40:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\59256e1b-db6e-470d-a083-99cfeb388ce7\bushkov_758.py
+2026-05-23T18:40:11+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\59256e1b-db6e-470d-a083-99cfeb388ce7\bushkov_758.py
+2026-05-23T18:40:12+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\Банковская выписка (Обработка).json
+2026-05-23T18:40:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:40:14+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\node_530.py
+2026-05-23T18:40:14+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py
+2026-05-23T18:40:15+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\robo_190.py
+2026-05-23T18:40:16+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py
+2026-05-23T18:40:16+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\bot_719.py
+2026-05-23T18:40:16+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\bushkov_758.py
+2026-05-23T18:40:16+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\main.py
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Подготовка конфигурации...
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Чтение файла конфигурации...
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Файл конфигурации найден
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Чтение файла конфигурации успешно
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Подготовка и валидация конфига...
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Значения по умолчанию заполнены
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Все обязательные поля в конфиге существуют
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Конфиг логически корректен
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Конфигурация дополнена и проверена
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\servo_940.py Конфигурация готова к работе
+2026-05-23T18:40:16+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\robo_190.py Инициализация 1С...
+2026-05-23T18:40:26+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\robo_190.py 1С запущен
+2026-05-23T18:40:26+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\robo_190.py Вход в 1С...
+2026-05-23T18:40:26+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\robo_190.py Отправка данных для логина...
+2026-05-23T18:40:26+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\robo_190.py Отправка данных успешна
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\robo_190.py Вход в 1С успешен
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py Чтение файла банковской выписки...
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py Файл банковской выписки найден
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py Чтение банковской выписки успешно
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py Валидация банковской выписки...
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py Банковская выписка готова к работе
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\bushkov_758.py Обработка банковских данных...
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\bushkov_758.py Начата обработка платежа: {'Дата': '2025-01-03', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счету', 'ИНН_контрагента': 7799091002, 'Организация': 'Конфетпром ООО'}
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py Валидация данных платежа...
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\synth_656.py Данные корректны
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\bushkov_758.py Определение типа операции...
+2026-05-23T18:40:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\robo_190.py Заполнение банковской выписки...
+2026-05-23T18:40:57+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\b02192a7-ed42-4ae5-ac55-4c06f0243f74\main.py Ошибка: 'NoneType' object is not subscriptable
+2026-05-23T18:40:58+0300 Окно выполнения: main: ERROR:  ["'NoneType' object is not subscriptable"]
+2026-05-23T18:41:05+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:44:58+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8a9dbb7c-4fbb-48ee-923a-c4ad610a282f\robo_190.py
+2026-05-23T18:44:58+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8a9dbb7c-4fbb-48ee-923a-c4ad610a282f\robo_190.py
+2026-05-23T18:45:03+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\node_530.py
+2026-05-23T18:45:03+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py
+2026-05-23T18:45:04+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py
+2026-05-23T18:45:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\synth_656.py
+2026-05-23T18:45:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\bot_719.py
+2026-05-23T18:45:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\bushkov_758.py
+2026-05-23T18:45:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py
+2026-05-23T18:45:06+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Старт. Выполняемый шаг: Группировка блоков. id: /gTkwT4b_Qhb:RS;BhWV
+2026-05-23T18:45:06+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Старт. Выполняемый шаг: Объявить константу. id: VZB~F_hq%]k-tu:76d-w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Выполнение. Выполняемый шаг: Группировка блоков. id: /gTkwT4b_Qhb:RS;BhWV
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Выполнение. Выполняемый шаг: Объявить константу. id: VZB~F_hq%]k-tu:76d-w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Подготовка конфигурации...
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Группировка блоков. id: }_DHITo`/lyp|+A!9qY;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Присвоить значение переменной. id: Gk2P_9M/{2ATcdKHL0(y
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Группировка блоков. id: }_DHITo`/lyp|+A!9qY;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: Gk2P_9M/{2ATcdKHL0(y
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Относительный путь. id: aNT_+qRZdNQNt^B=S89|
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Относительный путь. id: aNT_+qRZdNQNt^B=S89|
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: Gk2P_9M/{2ATcdKHL0(y
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Группировка блоков. id: }_DHITo`/lyp|+A!9qY;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Группировка блоков. id: 7E4tT;/Hb#}uN`[GgM7$
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Присвоить значение переменной. id: |:;D6EkAI,htvM(WLP7|
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Группировка блоков. id: 7E4tT;/Hb#}uN`[GgM7$
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: |:;D6EkAI,htvM(WLP7|
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Чтение файла конфигурации...
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Группировка блоков. id: ,*d{bW(shg1ZQF4/WaMG
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: {7lw8!M8iHb=^./yUWms
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Группировка блоков. id: ,*d{bW(shg1ZQF4/WaMG
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: {7lw8!M8iHb=^./yUWms
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует путь?. id: {~5FNa.?BX7.x#3K;CB3
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует путь?. id: {~5FNa.?BX7.x#3K;CB3
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: {7lw8!M8iHb=^./yUWms
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Файл конфигурации найден
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Группировка блоков. id: ,*d{bW(shg1ZQF4/WaMG
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Группировка блоков. id: ^/to:jJF4}C(gx|auxwG
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Обработка ошибки. id: )+lu8KjCvt;]S[ACs+^z
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Присвоить значение переменной. id: =T1~?d-V5C7]_Oa$I-{h
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Группировка блоков. id: ^/to:jJF4}C(gx|auxwG
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Обработка ошибки. id: )+lu8KjCvt;]S[ACs+^z
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: =T1~?d-V5C7]_Oa$I-{h
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Прочитать файл. id: i$p#2hiz(y9BNaJiIF0^
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Прочитать файл. id: i$p#2hiz(y9BNaJiIF0^
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: =T1~?d-V5C7]_Oa$I-{h
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Обработка ошибки. id: )+lu8KjCvt;]S[ACs+^z
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Чтение файла конфигурации успешно
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Группировка блоков. id: ^/to:jJF4}C(gx|auxwG
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: |:;D6EkAI,htvM(WLP7|
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Присвоить значение переменной. id: Y)Rms=U$z91kVv0hfD%^
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: Y)Rms=U$z91kVv0hfD%^
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Подготовка и валидация конфига...
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Группировка блоков. id: CEu*Nx$-!Bz~Y1?TpiE]
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Присвоить значение переменной. id: hB`MOzVNhd9)$|HG=@;;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Группировка блоков. id: CEu*Nx$-!Bz~Y1?TpiE]
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: hB`MOzVNhd9)$|HG=@;;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: hB`MOzVNhd9)$|HG=@;;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Присвоить значение переменной. id: o#9Mb$K;VRQG=*kZcR;y
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: o#9Mb$K;VRQG=*kZcR;y
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: o#9Mb$K;VRQG=*kZcR;y
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Группировка блоков. id: CEu*Nx$-!Bz~Y1?TpiE]
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Группировка блоков. id: gk,+Y2?!C!umTC48/da;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Цикл для каждого элемента. id: eGD*P`])eEmpI~{PL_09
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Группировка блоков. id: gk,+Y2?!C!umTC48/da;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Цикл для каждого элемента. id: eGD*P`])eEmpI~{PL_09
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Преобразовать словарь в список. id: (-f_t1IJilT^Awjd_.|I
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Преобразовать словарь в список. id: (-f_t1IJilT^Awjd_.|I
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: =T:9`,K?PY|kU0eMh5X8
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: =T:9`,K?PY|kU0eMh5X8
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: =T:9`,K?PY|kU0eMh5X8
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: =T:9`,K?PY|kU0eMh5X8
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: =T:9`,K?PY|kU0eMh5X8
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: =T:9`,K?PY|kU0eMh5X8
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Обновить значение в словаре. id: XEW7x47jUJ=vL|F9Sge!
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: -wg9/ClMvW)t!7Q]=B|w
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Цикл для каждого элемента. id: eGD*P`])eEmpI~{PL_09
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Значения по умолчанию заполнены
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Группировка блоков. id: gk,+Y2?!C!umTC48/da;
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Группировка блоков. id: [Pi+i!k}g:g5t(XRRAs+
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Цикл для каждого элемента. id: 2OgUBV$42Da|cqF;Ph9s
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Группировка блоков. id: [Pi+i!k}g:g5t(XRRAs+
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Цикл для каждого элемента. id: 2OgUBV$42Da|cqF;Ph9s
+2026-05-23T18:45:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Существует ли элемент в словаре. id: (_*:Li^X$yip`s+WX7%m
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: UV(QG{:7@I9X-an_WMmz
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Цикл для каждого элемента. id: 2OgUBV$42Da|cqF;Ph9s
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Все обязательные поля в конфиге существуют
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Группировка блоков. id: [Pi+i!k}g:g5t(XRRAs+
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Группировка блоков. id: Woaz=rPM}ZRcUA5X+A0a
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Старт. Выполняемый шаг: Если – выполнить. id: pt8{=TBT?vXqvV^d6Au8
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Группировка блоков. id: Woaz=rPM}ZRcUA5X+A0a
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Выполнение. Выполняемый шаг: Если – выполнить. id: pt8{=TBT?vXqvV^d6Au8
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\node_530.py Старт. Выполняемый шаг: Если/вернуть. id: lTHN@y`jex!Ieb~F=VWc
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\node_530.py Выполнение. Выполняемый шаг: Если/вернуть. id: lTHN@y`jex!Ieb~F=VWc
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\node_530.py Завершение. Выполняемый шаг: Если/вернуть. id: lTHN@y`jex!Ieb~F=VWc
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\node_530.py Старт. Выполняемый шаг: Выполнить фрагмент кода Python. id: JEV+^^Z_n3#xJqZRe{lT
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\node_530.py Выполнение. Выполняемый шаг: Выполнить фрагмент кода Python. id: JEV+^^Z_n3#xJqZRe{lT
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\node_530.py Завершение. Выполняемый шаг: Выполнить фрагмент кода Python. id: JEV+^^Z_n3#xJqZRe{lT
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Если – выполнить. id: pt8{=TBT?vXqvV^d6Au8
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Конфиг логически корректен
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Группировка блоков. id: Woaz=rPM}ZRcUA5X+A0a
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Конфигурация дополнена и проверена
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: Y)Rms=U$z91kVv0hfD%^
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Завершение. Выполняемый шаг: Группировка блоков. id: 7E4tT;/Hb#}uN`[GgM7$
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\servo_940.py Конфигурация готова к работе
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Завершение. Выполняемый шаг: Объявить константу. id: VZB~F_hq%]k-tu:76d-w
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Старт. Выполняемый шаг: Объявить константу. id: @jP;!aEaX)$BU!oY^D8]
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Выполнение. Выполняемый шаг: Объявить константу. id: @jP;!aEaX)$BU!oY^D8]
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Инициализация 1С...
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Группировка блоков. id: I#yp$o?Hv[5%Xa)N5CGA
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Присвоить значение переменной. id: upa`KJuF,f{xlRxu4z2(
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Группировка блоков. id: I#yp$o?Hv[5%Xa)N5CGA
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: upa`KJuF,f{xlRxu4z2(
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: upa`KJuF,f{xlRxu4z2(
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Группировка блоков. id: I#yp$o?Hv[5%Xa)N5CGA
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Группировка блоков. id: dh*lEX_q]*76R[ZtiDxx
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Присвоить значение переменной. id: hWIXRmf^}d#dI0FU:1!E
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Группировка блоков. id: dh*lEX_q]*76R[ZtiDxx
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: hWIXRmf^}d#dI0FU:1!E
+2026-05-23T18:45:13+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Создать сессию браузера. id: 311~r,]B|4LRVRJ%k2I^
+2026-05-23T18:45:19+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Создать сессию браузера. id: 311~r,]B|4LRVRJ%k2I^
+2026-05-23T18:45:19+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: hWIXRmf^}d#dI0FU:1!E
+2026-05-23T18:45:19+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Открыть страницу в браузере. id: jf0AS9Pz4Zi-,:ZJnpJI
+2026-05-23T18:45:20+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Открыть страницу в браузере. id: jf0AS9Pz4Zi-,:ZJnpJI
+2026-05-23T18:45:20+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Открыть страницу в браузере. id: jf0AS9Pz4Zi-,:ZJnpJI
+2026-05-23T18:45:20+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Группировка блоков. id: dh*lEX_q]*76R[ZtiDxx
+2026-05-23T18:45:20+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Группировка блоков. id: H+ZpCM_2fD6hz9,N~^L^
+2026-05-23T18:45:20+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Если – выполнить. id: ;SMIB=W1][A0qrY!^zai
+2026-05-23T18:45:20+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Группировка блоков. id: H+ZpCM_2fD6hz9,N~^L^
+2026-05-23T18:45:20+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Если – выполнить. id: ;SMIB=W1][A0qrY!^zai
+2026-05-23T18:45:20+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Ожидать появление элемента. id: *PV@/uY870*QWtq$:P*=
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Ожидать появление элемента. id: *PV@/uY870*QWtq$:P*=
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Если – выполнить. id: ;SMIB=W1][A0qrY!^zai
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Группировка блоков. id: H+ZpCM_2fD6hz9,N~^L^
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py 1С запущен
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Завершение. Выполняемый шаг: Объявить константу. id: @jP;!aEaX)$BU!oY^D8]
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Старт. Выполняемый шаг: Исполнить функцию. id: @R}-;8@Bry9gb2MR?1nv
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Выполнение. Выполняемый шаг: Исполнить функцию. id: @R}-;8@Bry9gb2MR?1nv
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Вход в 1С...
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Группировка блоков. id: -Z/=OWZ6Z`zi5Fbp#b)f
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Присвоить значение переменной. id: Q,PWZ+#]1iFv~O4OP//A
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Группировка блоков. id: -Z/=OWZ6Z`zi5Fbp#b)f
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: Q,PWZ+#]1iFv~O4OP//A
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: Q,PWZ+#]1iFv~O4OP//A
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Присвоить значение переменной. id: G`erzuYpR3KhTe*bDi?x
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: G`erzuYpR3KhTe*bDi?x
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: G`erzuYpR3KhTe*bDi?x
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Присвоить значение переменной. id: .`i7]C!gOvF14SWeus`y
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: .`i7]C!gOvF14SWeus`y
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: .`i7]C!gOvF14SWeus`y
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Группировка блоков. id: -Z/=OWZ6Z`zi5Fbp#b)f
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Группировка блоков. id: (,I5^-]U_B|L3p6Z8Rz/
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Если – выполнить. id: X7Zf8*JYYWM6+=J!Rg(/
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Группировка блоков. id: (,I5^-]U_B|L3p6Z8Rz/
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Если – выполнить. id: X7Zf8*JYYWM6+=J!Rg(/
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Существует ли элемент. id: K#pGw_8XL9/ISAyR|Rc|
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Существует ли элемент. id: K#pGw_8XL9/ISAyR|Rc|
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Если – выполнить. id: X7Zf8*JYYWM6+=J!Rg(/
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Группировка блоков. id: (,I5^-]U_B|L3p6Z8Rz/
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Группировка блоков. id: nP^ip)eu:eT{rR6QC2=v
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Группировка блоков. id: nP^ip)eu:eT{rR6QC2=v
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Отправка данных для логина...
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Ввод в веб-сайт. id: w`~4nUG9oM-T!n.)Pz:M
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Ввод в веб-сайт. id: w`~4nUG9oM-T!n.)Pz:M
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Ввод в веб-сайт. id: w`~4nUG9oM-T!n.)Pz:M
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Ввод в веб-сайт. id: YARo?_3f=H4o9yVf%RMD
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Ввод в веб-сайт. id: YARo?_3f=H4o9yVf%RMD
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Ввод в веб-сайт. id: YARo?_3f=H4o9yVf%RMD
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Клик по Web-элементу. id: SBqrm!eI#PsgJneW%GZ9
+2026-05-23T18:45:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: SBqrm!eI#PsgJneW%GZ9
+2026-05-23T18:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: SBqrm!eI#PsgJneW%GZ9
+2026-05-23T18:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Отправка данных успешна
+2026-05-23T18:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Группировка блоков. id: nP^ip)eu:eT{rR6QC2=v
+2026-05-23T18:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Группировка блоков. id: jX,bF|Gf5jdI*$0[=tBU
+2026-05-23T18:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Если – выполнить. id: 5iI(5?pxyl[|THat_lj1
+2026-05-23T18:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Группировка блоков. id: jX,bF|Gf5jdI*$0[=tBU
+2026-05-23T18:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Выполнение. Выполняемый шаг: Если – выполнить. id: 5iI(5?pxyl[|THat_lj1
+2026-05-23T18:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Старт. Выполняемый шаг: Ожидать появление элемента. id: oEZ3@,Ba)#718xCLQ02|
+2026-05-23T18:45:55+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Ожидать появление элемента. id: oEZ3@,Ba)#718xCLQ02|
+2026-05-23T18:45:55+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Если – выполнить. id: 5iI(5?pxyl[|THat_lj1
+2026-05-23T18:45:55+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Завершение. Выполняемый шаг: Группировка блоков. id: jX,bF|Gf5jdI*$0[=tBU
+2026-05-23T18:45:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\robo_190.py Вход в 1С успешен
+2026-05-23T18:45:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Завершение. Выполняемый шаг: Исполнить функцию. id: @R}-;8@Bry9gb2MR?1nv
+2026-05-23T18:45:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 26G%,:@TKhHR0NFAh9{y
+2026-05-23T18:46:01+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\40955a35-49fc-4e74-9d22-d19185982c39\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 26G%,:@TKhHR0NFAh9{y
+2026-05-23T18:48:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:48:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\node_530.py
+2026-05-23T18:48:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py
+2026-05-23T18:48:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\robo_190.py
+2026-05-23T18:48:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py
+2026-05-23T18:48:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bot_719.py
+2026-05-23T18:48:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bushkov_758.py
+2026-05-23T18:48:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\main.py
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Подготовка конфигурации...
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Чтение файла конфигурации...
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Файл конфигурации найден
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Чтение файла конфигурации успешно
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Подготовка и валидация конфига...
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Значения по умолчанию заполнены
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Все обязательные поля в конфиге существуют
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Конфиг логически корректен
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Конфигурация дополнена и проверена
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\servo_940.py Конфигурация готова к работе
+2026-05-23T18:48:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\robo_190.py Инициализация 1С...
+2026-05-23T18:48:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\robo_190.py 1С запущен
+2026-05-23T18:48:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\robo_190.py Вход в 1С...
+2026-05-23T18:48:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\robo_190.py Отправка данных для логина...
+2026-05-23T18:48:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\robo_190.py Отправка данных успешна
+2026-05-23T18:49:28+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\robo_190.py Вход в 1С успешен
+2026-05-23T18:49:28+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py Чтение файла банковской выписки...
+2026-05-23T18:49:28+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py Файл банковской выписки найден
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py Чтение банковской выписки успешно
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py Валидация банковской выписки...
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py Банковская выписка готова к работе
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bushkov_758.py Обработка банковских данных...
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bushkov_758.py Начата обработка платежа: {'Дата': '2025-01-03', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счету', 'ИНН_контрагента': 7799091002, 'Организация': 'Конфетпром ООО'}
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py Валидация данных платежа...
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\synth_656.py Данные корректны
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bushkov_758.py Определение типа операции...
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\robo_190.py Заполнение банковской выписки...
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bot_719.py Запись результата...
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bot_719.py Запись успешно добавлена
+2026-05-23T18:49:29+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bushkov_758.py Произошла ошибка в строке: 175
+Описание ошибки: 'NoneType' object is not subscriptable
+2026-05-23T18:49:29+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bot_719.py Сохранение отчёта...
+2026-05-23T18:49:29+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bot_719.py Отчёт успешно сохранён
+2026-05-23T18:49:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\bot_719.py Обработка банковской выписки завершена.
+Всего строк: 24
+Успешно: 0
+Ошибок: 1
+Дубликатов: 0
+Пропущено: 0
+2026-05-23T18:49:29+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ee7b77ea-4725-4b3a-a3d7-70df748360b5\main.py
+2026-05-23T18:49:29+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:50:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:50:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\node_530.py
+2026-05-23T18:50:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py
+2026-05-23T18:50:20+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\robo_190.py
+2026-05-23T18:50:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py
+2026-05-23T18:50:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bot_719.py
+2026-05-23T18:50:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bushkov_758.py
+2026-05-23T18:50:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\main.py
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Подготовка конфигурации...
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Чтение файла конфигурации...
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Файл конфигурации найден
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Чтение файла конфигурации успешно
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Подготовка и валидация конфига...
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Значения по умолчанию заполнены
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Все обязательные поля в конфиге существуют
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Конфиг логически корректен
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Конфигурация дополнена и проверена
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\servo_940.py Конфигурация готова к работе
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py Чтение файла банковской выписки...
+2026-05-23T18:50:21+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py Файл банковской выписки найден
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py Чтение банковской выписки успешно
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py Валидация банковской выписки...
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py Банковская выписка готова к работе
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bushkov_758.py Обработка банковских данных...
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bushkov_758.py Начата обработка платежа: {'Дата': '2025-01-03', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счету', 'ИНН_контрагента': 7799091002, 'Организация': 'Конфетпром ООО'}
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py Валидация данных платежа...
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\synth_656.py Данные корректны
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bushkov_758.py Определение типа операции...
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\robo_190.py Заполнение банковской выписки...
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bot_719.py Запись результата...
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bot_719.py Запись успешно добавлена
+2026-05-23T18:50:22+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bushkov_758.py Произошла ошибка в строке: 175
+Описание ошибки: Константа 'WEB_1C' не определена. Добавьте блок 'Объявить константу' для 'WEB_1C' и убедитесь, что он выполняется перед использованием константы.
+2026-05-23T18:50:22+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bot_719.py Сохранение отчёта...
+2026-05-23T18:50:22+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bot_719.py Отчёт успешно сохранён
+2026-05-23T18:50:22+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\bot_719.py Обработка банковской выписки завершена.
+Всего строк: 24
+Успешно: 0
+Ошибок: 1
+Дубликатов: 0
+Пропущено: 0
+2026-05-23T18:50:22+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a03e2180-5a7e-4267-a685-05bc1127914e\main.py
+2026-05-23T18:50:22+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:50:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:50:36+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\node_530.py
+2026-05-23T18:50:37+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py
+2026-05-23T18:50:38+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\robo_190.py
+2026-05-23T18:50:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\synth_656.py
+2026-05-23T18:50:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\main.py
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Подготовка конфигурации...
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Чтение файла конфигурации...
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Файл конфигурации найден
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Чтение файла конфигурации успешно
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Подготовка и валидация конфига...
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Значения по умолчанию заполнены
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Все обязательные поля в конфиге существуют
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Конфиг логически корректен
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Конфигурация дополнена и проверена
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\servo_940.py Конфигурация готова к работе
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\synth_656.py Чтение файла банковской выписки...
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\synth_656.py Файл банковской выписки найден
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\synth_656.py Чтение банковской выписки успешно
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\synth_656.py Валидация банковской выписки...
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\synth_656.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T18:50:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\synth_656.py Банковская выписка готова к работе
+2026-05-23T18:50:43+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\401ac8a7-7bef-487e-a2e8-40349e10d413\main.py
+2026-05-23T18:50:45+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:50:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\Банковская выписка (Обработка).json
+2026-05-23T18:50:56+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\35e56ca9-256c-49c1-8967-448ab7e91330\node_530.py
+2026-05-23T18:50:58+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\35e56ca9-256c-49c1-8967-448ab7e91330\synth_656.py
+2026-05-23T18:50:58+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\35e56ca9-256c-49c1-8967-448ab7e91330\bot_719.py
+2026-05-23T18:50:58+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\35e56ca9-256c-49c1-8967-448ab7e91330\bushkov_758.py
+2026-05-23T18:50:58+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\35e56ca9-256c-49c1-8967-448ab7e91330\bushkov_758.py
+2026-05-23T18:50:58+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\Банковская выписка (Обработка).json
+2026-05-23T18:50:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:50:59+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\node_530.py
+2026-05-23T18:50:59+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py
+2026-05-23T18:51:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\robo_190.py
+2026-05-23T18:51:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py
+2026-05-23T18:51:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bot_719.py
+2026-05-23T18:51:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bushkov_758.py
+2026-05-23T18:51:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\main.py
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Подготовка конфигурации...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Чтение файла конфигурации...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Файл конфигурации найден
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Чтение файла конфигурации успешно
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Подготовка и валидация конфига...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Значения по умолчанию заполнены
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Все обязательные поля в конфиге существуют
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Конфиг логически корректен
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Конфигурация дополнена и проверена
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\servo_940.py Конфигурация готова к работе
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py Чтение файла банковской выписки...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py Файл банковской выписки найден
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py Чтение банковской выписки успешно
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py Валидация банковской выписки...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py Банковская выписка готова к работе
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bushkov_758.py Обработка банковских данных...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bushkov_758.py Начата обработка платежа: {'Дата': '2025-01-03', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счету', 'ИНН_контрагента': 7799091002, 'Организация': 'Конфетпром ООО'}
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py Валидация данных платежа...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\synth_656.py Данные корректны
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bushkov_758.py Определение типа операции...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bot_719.py Запись результата...
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bot_719.py Запись успешно добавлена
+2026-05-23T18:51:02+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bot_719.py Сохранение отчёта...
+2026-05-23T18:51:02+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bot_719.py Отчёт успешно сохранён
+2026-05-23T18:51:02+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\bot_719.py Обработка банковской выписки завершена.
+Всего строк: 24
+Успешно: 0
+Ошибок: 0
+Дубликатов: 0
+Пропущено: 0
+2026-05-23T18:51:02+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2e7c0325-aab9-4dcb-9153-377bb6b31fe3\main.py
+2026-05-23T18:51:03+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:52:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T18:52:20+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\node_530.py
+2026-05-23T18:52:20+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py
+2026-05-23T18:52:22+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py
+2026-05-23T18:52:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py
+2026-05-23T18:52:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bot_719.py
+2026-05-23T18:52:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bushkov_758.py
+2026-05-23T18:52:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\main.py
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Подготовка конфигурации...
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Чтение файла конфигурации...
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Файл конфигурации найден
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Чтение файла конфигурации успешно
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Подготовка и валидация конфига...
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Значения по умолчанию заполнены
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Все обязательные поля в конфиге существуют
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Конфиг логически корректен
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Конфигурация дополнена и проверена
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\servo_940.py Конфигурация готова к работе
+2026-05-23T18:52:23+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Инициализация 1С...
+2026-05-23T18:52:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py 1С запущен
+2026-05-23T18:52:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Вход в 1С...
+2026-05-23T18:52:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Отправка данных для логина...
+2026-05-23T18:52:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Отправка данных успешна
+2026-05-23T18:53:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Вход в 1С успешен
+2026-05-23T18:53:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py Чтение файла банковской выписки...
+2026-05-23T18:53:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py Файл банковской выписки найден
+2026-05-23T18:53:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py Чтение банковской выписки успешно
+2026-05-23T18:53:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py Валидация банковской выписки...
+2026-05-23T18:53:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T18:53:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py Банковская выписка готова к работе
+2026-05-23T18:53:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bushkov_758.py Обработка банковских данных...
+2026-05-23T18:53:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bushkov_758.py Начата обработка платежа: {'Дата': '2025-01-03', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счету', 'ИНН_контрагента': 7799091002, 'Организация': 'Конфетпром ООО'}
+2026-05-23T18:53:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py Валидация данных платежа...
+2026-05-23T18:53:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\synth_656.py Данные корректны
+2026-05-23T18:53:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bushkov_758.py Определение типа операции...
+2026-05-23T18:53:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Заполнение банковской выписки...
+2026-05-23T18:53:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Открытие формы...
+2026-05-23T18:53:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Открытие страницы "Банковские выписки"...
+2026-05-23T18:53:10+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Открытие формы для заполнения банковской выписки
+2026-05-23T18:53:11+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Страница успешно открыта
+2026-05-23T18:53:18+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Заполнение вормы банковской выписки...
+2026-05-23T18:53:18+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Заполнение поля: date_field
+2026-05-23T18:53:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Заполнение поля: purpose_field
+2026-05-23T18:53:27+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Заполнение поля: inn_field
+2026-05-23T18:53:28+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Заполнение поля: amount_field
+2026-05-23T18:53:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Заполнение поля: org_field
+2026-05-23T18:53:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\robo_190.py Форма успешно заполнена
+2026-05-23T18:53:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bot_719.py Запись результата...
+2026-05-23T18:53:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bot_719.py Запись успешно добавлена
+2026-05-23T18:53:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bot_719.py Сохранение отчёта...
+2026-05-23T18:53:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bot_719.py Отчёт успешно сохранён
+2026-05-23T18:53:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\bot_719.py Обработка банковской выписки завершена.
+Всего строк: 24
+Успешно: 0
+Ошибок: 0
+Дубликатов: 0
+Пропущено: 0
+2026-05-23T18:53:32+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\0896aaad-ff5d-460e-8b7b-4a440c5b2a85\main.py
+2026-05-23T18:53:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
