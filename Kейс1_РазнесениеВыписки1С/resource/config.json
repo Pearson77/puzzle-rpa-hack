@@ -3,9 +3,6 @@
   "login": "demo_user",
   "password": "demo_password",
 
-  "statement_file": "../resource/statement.xlsx",
-  "report_file": "../resource/report.csv",
-
-  "post_documents": true,
-  "check_duplicates": true
+  "statement_file": "statement.csv",
+  "report_file": "report.csv"
 }
