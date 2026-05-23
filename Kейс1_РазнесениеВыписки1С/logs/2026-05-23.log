@@ -1,0 +1,113 @@
+2026-05-23T03:45:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:45:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6516c294-0399-4951-99d1-715b4879516c\main.py
+2026-05-23T03:45:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6516c294-0399-4951-99d1-715b4879516c\main.py Начало парсинга конфига
+2026-05-23T03:45:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6516c294-0399-4951-99d1-715b4879516c\main.py Файл конфигурации найден
+2026-05-23T03:45:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6516c294-0399-4951-99d1-715b4879516c\main.py Все обязательные поля в конфиге существуют
+2026-05-23T03:45:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6516c294-0399-4951-99d1-715b4879516c\main.py Значения по умолчанию заполнены
+2026-05-23T03:45:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6516c294-0399-4951-99d1-715b4879516c\main.py Конфиг готов к работе
+2026-05-23T03:46:26+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6516c294-0399-4951-99d1-715b4879516c\main.py
+2026-05-23T03:46:26+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:46:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:46:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\671db39c-2e4a-4280-9fba-5fff5d74c999\main.py
+2026-05-23T03:46:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\671db39c-2e4a-4280-9fba-5fff5d74c999\main.py Начало парсинга конфига
+2026-05-23T03:46:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\671db39c-2e4a-4280-9fba-5fff5d74c999\main.py Файл конфигурации найден
+2026-05-23T03:46:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\671db39c-2e4a-4280-9fba-5fff5d74c999\main.py Все обязательные поля в конфиге существуют
+2026-05-23T03:46:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\671db39c-2e4a-4280-9fba-5fff5d74c999\main.py Значения по умолчанию заполнены
+2026-05-23T03:46:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\671db39c-2e4a-4280-9fba-5fff5d74c999\main.py Конфиг готов к работе
+2026-05-23T03:46:43+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\671db39c-2e4a-4280-9fba-5fff5d74c999\main.py
+2026-05-23T03:46:43+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:46:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:46:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\09d825a3-f660-4f04-8841-fe5d7c875616\main.py
+2026-05-23T03:46:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\09d825a3-f660-4f04-8841-fe5d7c875616\main.py Начало парсинга конфига
+2026-05-23T03:46:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\09d825a3-f660-4f04-8841-fe5d7c875616\main.py Файл конфигурации найден
+2026-05-23T03:46:48+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\09d825a3-f660-4f04-8841-fe5d7c875616\main.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-05-23T03:46:48+0300 Окно выполнения: main: ERROR:  ["Expecting value: line 1 column 1 (char 0)"]
+2026-05-23T03:46:55+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:47:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:47:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\87542b33-96e8-44bc-a146-8c060e94ba10\main.py
+2026-05-23T03:47:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\87542b33-96e8-44bc-a146-8c060e94ba10\main.py Начало парсинга конфига
+2026-05-23T03:47:05+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\87542b33-96e8-44bc-a146-8c060e94ba10\main.py Файл конфигурации не найден
+2026-05-23T03:47:05+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\87542b33-96e8-44bc-a146-8c060e94ba10\main.py Файл конфигурации найден
+2026-05-23T03:47:05+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\87542b33-96e8-44bc-a146-8c060e94ba10\main.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-05-23T03:47:05+0300 Окно выполнения: main: ERROR:  ["Expecting value: line 1 column 1 (char 0)"]
+2026-05-23T03:47:16+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:47:51+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T03:47:52+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dcc99f68-c0f7-407e-aaa2-d261b0b663c7\main.py
+2026-05-23T03:47:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dcc99f68-c0f7-407e-aaa2-d261b0b663c7\main.py Начало парсинга конфига
+2026-05-23T03:47:52+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dcc99f68-c0f7-407e-aaa2-d261b0b663c7\main.py Файл конфигурации не найден
+2026-05-23T03:47:52+0300 INFO: Завершение работы робота
+2026-05-23T03:47:53+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:00:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:00:50+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\f7474c64-deb9-4a62-b8a1-8cfd5b3cdd9f\main.py
+2026-05-23T04:00:50+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\f7474c64-deb9-4a62-b8a1-8cfd5b3cdd9f\main.py Начало парсинга конфига
+2026-05-23T04:00:50+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\f7474c64-deb9-4a62-b8a1-8cfd5b3cdd9f\main.py Файл конфигурации найден
+2026-05-23T04:00:50+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\f7474c64-deb9-4a62-b8a1-8cfd5b3cdd9f\main.py Все обязательные поля в конфиге существуют
+2026-05-23T04:00:50+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\f7474c64-deb9-4a62-b8a1-8cfd5b3cdd9f\main.py Значения по умолчанию заполнены
+2026-05-23T04:00:50+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\f7474c64-deb9-4a62-b8a1-8cfd5b3cdd9f\main.py Ссылка на 1С некорректна
+2026-05-23T04:00:50+0300 INFO: Завершение работы робота
+2026-05-23T04:00:50+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:01:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:01:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5895dd63-100f-4991-b7ba-5abc6f272e4d\main.py
+2026-05-23T04:01:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5895dd63-100f-4991-b7ba-5abc6f272e4d\main.py Начало парсинга конфига
+2026-05-23T04:01:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5895dd63-100f-4991-b7ba-5abc6f272e4d\main.py Файл конфигурации найден
+2026-05-23T04:01:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5895dd63-100f-4991-b7ba-5abc6f272e4d\main.py Все обязательные поля в конфиге существуют
+2026-05-23T04:01:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5895dd63-100f-4991-b7ba-5abc6f272e4d\main.py Значения по умолчанию заполнены
+2026-05-23T04:01:32+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5895dd63-100f-4991-b7ba-5abc6f272e4d\main.py Ссылка на 1С некорректна
+2026-05-23T04:01:32+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5895dd63-100f-4991-b7ba-5abc6f272e4d\main.py Колличество попыток должно быть >0
+2026-05-23T04:01:32+0300 INFO: Завершение работы робота
+2026-05-23T04:01:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:02:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:02:10+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\122833ef-43e2-4b48-81a3-0c5a774b5a8d\main.py
+2026-05-23T04:02:10+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\122833ef-43e2-4b48-81a3-0c5a774b5a8d\main.py Начало парсинга конфига
+2026-05-23T04:02:10+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\122833ef-43e2-4b48-81a3-0c5a774b5a8d\main.py Файл конфигурации найден
+2026-05-23T04:02:10+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\122833ef-43e2-4b48-81a3-0c5a774b5a8d\main.py Все обязательные поля в конфиге существуют
+2026-05-23T04:02:10+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\122833ef-43e2-4b48-81a3-0c5a774b5a8d\main.py Значения по умолчанию заполнены
+2026-05-23T04:02:10+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\122833ef-43e2-4b48-81a3-0c5a774b5a8d\main.py Ссылка на 1С некорректна
+2026-05-23T04:02:10+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\122833ef-43e2-4b48-81a3-0c5a774b5a8d\main.py Ошибка: 'timeout'
+2026-05-23T04:02:11+0300 Окно выполнения: main: ERROR:  ["'timeout'"]
+2026-05-23T04:02:16+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:02:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:02:33+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py
+2026-05-23T04:02:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py Начало парсинга конфига
+2026-05-23T04:02:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py Файл конфигурации найден
+2026-05-23T04:02:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py Все обязательные поля в конфиге существуют
+2026-05-23T04:02:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py Значения по умолчанию заполнены
+2026-05-23T04:02:33+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py Ссылка на 1С некорректна
+2026-05-23T04:02:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py Конфиг логически корректен
+2026-05-23T04:02:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py Конфигурация успешно загружена
+2026-05-23T04:02:42+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\6ddc6f8a-481c-4141-ac6e-fe47ca8e4cbd\main.py
+2026-05-23T04:02:43+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:04:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:04:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ae149017-8eb1-4db6-90be-22a5dd5cfefa\main.py
+2026-05-23T04:04:44+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ae149017-8eb1-4db6-90be-22a5dd5cfefa\main.py Начало парсинга конфига
+2026-05-23T04:04:44+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ae149017-8eb1-4db6-90be-22a5dd5cfefa\main.py Файл конфигурации найден
+2026-05-23T04:04:44+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ae149017-8eb1-4db6-90be-22a5dd5cfefa\main.py Все обязательные поля в конфиге существуют
+2026-05-23T04:04:44+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ae149017-8eb1-4db6-90be-22a5dd5cfefa\main.py Значения по умолчанию заполнены
+2026-05-23T04:04:44+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ae149017-8eb1-4db6-90be-22a5dd5cfefa\main.py Конфиг логически корректен
+2026-05-23T04:04:44+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ae149017-8eb1-4db6-90be-22a5dd5cfefa\main.py Конфигурация успешно загружена
+2026-05-23T04:04:48+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\ae149017-8eb1-4db6-90be-22a5dd5cfefa\main.py
+2026-05-23T04:04:49+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:04:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:04:57+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\39767ade-348c-470e-93f3-0569243a376a\main.py
+2026-05-23T04:04:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\39767ade-348c-470e-93f3-0569243a376a\main.py Начало парсинга конфига
+2026-05-23T04:04:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\39767ade-348c-470e-93f3-0569243a376a\main.py Файл конфигурации найден
+2026-05-23T04:04:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\39767ade-348c-470e-93f3-0569243a376a\main.py Все обязательные поля в конфиге существуют
+2026-05-23T04:04:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\39767ade-348c-470e-93f3-0569243a376a\main.py Значения по умолчанию заполнены
+2026-05-23T04:04:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\39767ade-348c-470e-93f3-0569243a376a\main.py Конфиг логически корректен
+2026-05-23T04:04:57+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\39767ade-348c-470e-93f3-0569243a376a\main.py Конфигурация успешно загружена
+2026-05-23T04:05:00+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\39767ade-348c-470e-93f3-0569243a376a\main.py
+2026-05-23T04:05:01+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:22:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T04:22:58+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Подготовка конфигурации...
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Чтение файла конфигурации...
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Файл конфигурации найден
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Чтение файла конфигурации успешно
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Подготовка и валидация конфига...
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Значения по умолчанию заполнены
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Все обязательные поля в конфиге существуют
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Конфиг логически корректен
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Конфигурация дополнена и проверена
+2026-05-23T04:22:58+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py Конфигурация готова к работе
+2026-05-23T04:23:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\65407e03-b209-4423-b8b4-3e2be9241970\main.py
+2026-05-23T04:23:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
