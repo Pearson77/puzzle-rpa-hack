@@ -3,6 +3,6 @@
   "login": "demo_user",
   "password": "demo_password",
 
-  "statement_file": "statement.csv",
+  "statement_file": "statement.xlsx",
   "report_file": "report.csv"
 }

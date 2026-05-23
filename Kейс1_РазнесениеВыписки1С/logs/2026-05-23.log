@@ -423,3 +423,723 @@
 2026-05-23T05:08:26+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e5982160-3c03-4a07-855e-0baf55979b54\main.py Банковская выписка готова к работе
 2026-05-23T05:08:28+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e5982160-3c03-4a07-855e-0baf55979b54\main.py
 2026-05-23T05:08:30+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:15:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:15:11+0300 Окно выполнения: main: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\puzzle-rpa-hack\\Kейс1_РазнесениеВыписки1С\\resource\\3f9b578a-1583-4cfd-b263-1376e77310e8\\main.py\", line 219\r\n    'Дата': ,\r\n          ^\r\nSyntaxError: expression expected after dictionary key and ':'\r\n"]
+2026-05-23T05:15:19+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:23:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:23:29+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Подготовка конфигурации...
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Чтение файла конфигурации...
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Файл конфигурации найден
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Чтение файла конфигурации успешно
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Подготовка и валидация конфига...
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Значения по умолчанию заполнены
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Конфиг логически корректен
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Конфигурация дополнена и проверена
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Конфигурация готова к работе
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Чтение файла банковской выписки...
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Файл банковской выписки найден
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Чтение банковской выписки успешно
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Валидация банковской выписки...
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:23:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py Банковская выписка готова к работе
+2026-05-23T05:23:37+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\c664ab0b-7355-4d2d-97e0-96ed0ea4c47b\main.py
+2026-05-23T05:23:39+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:23:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:23:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Подготовка конфигурации...
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Чтение файла конфигурации...
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Файл конфигурации найден
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Чтение файла конфигурации успешно
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Подготовка и валидация конфига...
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Значения по умолчанию заполнены
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Конфиг логически корректен
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Конфигурация дополнена и проверена
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Конфигурация готова к работе
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Чтение файла банковской выписки...
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Файл банковской выписки найден
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Чтение банковской выписки успешно
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Валидация банковской выписки...
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:23:45+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py Банковская выписка готова к работе
+2026-05-23T05:23:57+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\2b42f8c5-0e94-4b9a-8422-79f0b34483cf\main.py
+2026-05-23T05:23:58+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:27:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:27:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Подготовка конфигурации...
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Чтение файла конфигурации...
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Файл конфигурации найден
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Чтение файла конфигурации успешно
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Подготовка и валидация конфига...
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Значения по умолчанию заполнены
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Конфиг логически корректен
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Конфигурация дополнена и проверена
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Конфигурация готова к работе
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Чтение файла банковской выписки...
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Файл банковской выписки найден
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Чтение банковской выписки успешно
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Валидация банковской выписки...
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Банковская выписка готова к работе
+2026-05-23T05:27:31+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Обработка банковских данных...
+2026-05-23T05:27:38+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py Начата обработка платежа
+2026-05-23T05:27:40+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\9b426313-b6ed-4fa0-9ddd-2aa6985794df\main.py
+2026-05-23T05:27:41+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:27:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:27:52+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Подготовка конфигурации...
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Чтение файла конфигурации...
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Файл конфигурации найден
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Чтение файла конфигурации успешно
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Подготовка и валидация конфига...
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Значения по умолчанию заполнены
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Конфиг логически корректен
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Конфигурация дополнена и проверена
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Конфигурация готова к работе
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Чтение файла банковской выписки...
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Файл банковской выписки найден
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Чтение банковской выписки успешно
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Валидация банковской выписки...
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Банковская выписка готова к работе
+2026-05-23T05:27:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Обработка банковских данных...
+2026-05-23T05:28:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py Начата обработка платежа
+2026-05-23T05:28:02+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\deeae669-5330-4306-84a5-a25b0e0e07e8\main.py
+2026-05-23T05:28:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:28:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:28:14+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Подготовка конфигурации...
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Чтение файла конфигурации...
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Файл конфигурации найден
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Чтение файла конфигурации успешно
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Подготовка и валидация конфига...
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Значения по умолчанию заполнены
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Конфиг логически корректен
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Конфигурация дополнена и проверена
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Конфигурация готова к работе
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Чтение файла банковской выписки...
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Файл банковской выписки найден
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Чтение банковской выписки успешно
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Валидация банковской выписки...
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Банковская выписка готова к работе
+2026-05-23T05:28:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Обработка банковских данных...
+2026-05-23T05:28:19+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py Начата обработка платежа
+2026-05-23T05:28:22+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20cf0d51-facf-4916-abcf-41e929822473\main.py
+2026-05-23T05:28:24+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:29:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:29:47+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Подготовка конфигурации...
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Чтение файла конфигурации...
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Файл конфигурации найден
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Чтение файла конфигурации успешно
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Подготовка и валидация конфига...
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Значения по умолчанию заполнены
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Конфиг логически корректен
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Конфигурация дополнена и проверена
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Конфигурация готова к работе
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Чтение файла банковской выписки...
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Файл банковской выписки найден
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Чтение банковской выписки успешно
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Валидация банковской выписки...
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Банковская выписка готова к работе
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Обработка банковских данных...
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Начата обработка платежа: {row}
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Начата обработка платежа: {row}
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Начата обработка платежа: {row}
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Начата обработка платежа: {row}
+2026-05-23T05:29:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py Начата обработка платежа: {row}
+2026-05-23T05:29:51+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e310f8e8-4041-4c3b-94ce-993a0280e0c2\main.py
+2026-05-23T05:29:54+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:30:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:30:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Подготовка конфигурации...
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Чтение файла конфигурации...
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Файл конфигурации найден
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Чтение файла конфигурации успешно
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Подготовка и валидация конфига...
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Значения по умолчанию заполнены
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Конфиг логически корректен
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Конфигурация дополнена и проверена
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Конфигурация готова к работе
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Чтение файла банковской выписки...
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Файл банковской выписки найден
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Чтение банковской выписки успешно
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Валидация банковской выписки...
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Банковская выписка готова к работе
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Обработка банковских данных...
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T05:30:17+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T05:30:21+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\184133b9-73e5-44eb-bd2b-6c132d04098d\main.py
+2026-05-23T05:30:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:43:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:44:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Подготовка конфигурации...
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Чтение файла конфигурации...
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Файл конфигурации найден
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Чтение файла конфигурации успешно
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Подготовка и валидация конфига...
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Значения по умолчанию заполнены
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Конфиг логически корректен
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Конфигурация дополнена и проверена
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Конфигурация готова к работе
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Чтение файла банковской выписки...
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Файл банковской выписки найден
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Чтение банковской выписки успешно
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Валидация банковской выписки...
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Банковская выписка готова к работе
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Обработка банковских данных...
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Валидация данных платежа...
+2026-05-23T05:44:00+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Ошибка обработки платежа
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Валидация данных платежа...
+2026-05-23T05:44:00+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Ошибка обработки платежа
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Валидация данных платежа...
+2026-05-23T05:44:00+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Ошибка обработки платежа
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Валидация данных платежа...
+2026-05-23T05:44:00+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Ошибка обработки платежа
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T05:44:00+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Валидация данных платежа...
+2026-05-23T05:44:00+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py Ошибка обработки платежа
+2026-05-23T05:44:05+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\48c1945c-cb00-442c-8b03-0e58dd2a80ad\main.py
+2026-05-23T05:44:07+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:44:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:44:54+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Подготовка конфигурации...
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Чтение файла конфигурации...
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Файл конфигурации найден
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Чтение файла конфигурации успешно
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Подготовка и валидация конфига...
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Значения по умолчанию заполнены
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Конфиг логически корректен
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Конфигурация дополнена и проверена
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Конфигурация готова к работе
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Чтение файла банковской выписки...
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Файл банковской выписки найден
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Чтение банковской выписки успешно
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Валидация банковской выписки...
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Банковская выписка готова к работе
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Обработка банковских данных...
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Валидация данных платежа...
+2026-05-23T05:44:54+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Ошибка обработки платежа
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Валидация данных платежа...
+2026-05-23T05:44:54+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Ошибка обработки платежа
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Валидация данных платежа...
+2026-05-23T05:44:54+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Ошибка обработки платежа
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Валидация данных платежа...
+2026-05-23T05:44:54+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Ошибка обработки платежа
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T05:44:54+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Валидация данных платежа...
+2026-05-23T05:44:54+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py Ошибка обработки платежа
+2026-05-23T05:44:58+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e716de9f-5ae5-4b1e-ba80-5b7a709d43a3\main.py
+2026-05-23T05:45:01+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:45:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:45:24+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Подготовка конфигурации...
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Чтение файла конфигурации...
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Файл конфигурации найден
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Чтение файла конфигурации успешно
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Подготовка и валидация конфига...
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Значения по умолчанию заполнены
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Конфиг логически корректен
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Конфигурация дополнена и проверена
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Конфигурация готова к работе
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Чтение файла банковской выписки...
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Файл банковской выписки найден
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Чтение банковской выписки успешно
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Валидация банковской выписки...
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Банковская выписка готова к работе
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Обработка банковских данных...
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Валидация данных платежа...
+2026-05-23T05:45:24+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Ошибка обработки платежа
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Валидация данных платежа...
+2026-05-23T05:45:24+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Ошибка обработки платежа
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Валидация данных платежа...
+2026-05-23T05:45:24+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Ошибка обработки платежа
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Валидация данных платежа...
+2026-05-23T05:45:24+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Ошибка обработки платежа
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T05:45:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Валидация данных платежа...
+2026-05-23T05:45:24+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py Ошибка обработки платежа
+2026-05-23T05:45:28+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\20ecaafe-93a5-4679-ac7b-51ae2c841195\main.py
+2026-05-23T05:45:31+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:46:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:46:52+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Подготовка конфигурации...
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Чтение файла конфигурации...
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Файл конфигурации найден
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Чтение файла конфигурации успешно
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Подготовка и валидация конфига...
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Значения по умолчанию заполнены
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Конфиг логически корректен
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Конфигурация дополнена и проверена
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Конфигурация готова к работе
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Чтение файла банковской выписки...
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Файл банковской выписки найден
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Чтение банковской выписки успешно
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Валидация банковской выписки...
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Банковская выписка готова к работе
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Обработка банковских данных...
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:46:52+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Валидация данных платежа...
+2026-05-23T05:46:52+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Ошибка обработки платежа
+2026-05-23T05:47:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T05:47:24+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Валидация данных платежа...
+2026-05-23T05:47:24+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Ошибка обработки платежа
+2026-05-23T05:47:26+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T05:47:26+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Валидация данных платежа...
+2026-05-23T05:47:26+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Ошибка обработки платежа
+2026-05-23T05:47:27+0300 Окно выполнения: main: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-23T05:47:28+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T05:47:28+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Валидация данных платежа...
+2026-05-23T05:47:28+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Ошибка обработки платежа
+2026-05-23T05:47:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T05:47:29+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Валидация данных платежа...
+2026-05-23T05:47:29+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py Ошибка обработки платежа
+2026-05-23T05:47:32+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\e8c85ecc-3a8e-4f60-b6bf-2bcbfd3be21b\main.py
+2026-05-23T05:47:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:47:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:47:40+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Подготовка конфигурации...
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Чтение файла конфигурации...
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Файл конфигурации найден
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Чтение файла конфигурации успешно
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Подготовка и валидация конфига...
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Значения по умолчанию заполнены
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Конфиг логически корректен
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Конфигурация дополнена и проверена
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Конфигурация готова к работе
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Чтение файла банковской выписки...
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Файл банковской выписки найден
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Чтение банковской выписки успешно
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Валидация банковской выписки...
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Банковская выписка готова к работе
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Обработка банковских данных...
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:47:40+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Валидация данных платежа...
+2026-05-23T05:47:40+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Ошибка обработки платежа
+2026-05-23T05:47:44+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T05:47:44+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Валидация данных платежа...
+2026-05-23T05:47:44+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Ошибка обработки платежа
+2026-05-23T05:47:46+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T05:47:46+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Валидация данных платежа...
+2026-05-23T05:47:46+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Ошибка обработки платежа
+2026-05-23T05:47:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T05:47:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Валидация данных платежа...
+2026-05-23T05:47:47+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Ошибка обработки платежа
+2026-05-23T05:47:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T05:47:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Валидация данных платежа...
+2026-05-23T05:47:48+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py Ошибка обработки платежа
+2026-05-23T05:47:52+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\d27bf1aa-20e0-4c44-828b-bd30da809df3\main.py
+2026-05-23T05:47:54+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:48:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:48:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Подготовка конфигурации...
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Чтение файла конфигурации...
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Файл конфигурации найден
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Чтение файла конфигурации успешно
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Подготовка и валидация конфига...
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Значения по умолчанию заполнены
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Конфиг логически корректен
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Конфигурация дополнена и проверена
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Конфигурация готова к работе
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Чтение файла банковской выписки...
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Файл банковской выписки найден
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Чтение банковской выписки успешно
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Валидация банковской выписки...
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Банковская выписка готова к работе
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Обработка банковских данных...
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Валидация данных платежа...
+2026-05-23T05:48:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Данные корректны
+2026-05-23T05:48:39+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\625592d6-aca6-454c-b035-c8698163c8d7\main.py Ошибка: cannot access local variable 'error_description' where it is not associated with a value
+2026-05-23T05:48:39+0300 Окно выполнения: main: ERROR:  ["cannot access local variable 'error_description' where it is not associated with a value"]
+2026-05-23T05:48:49+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:49:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:49:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Подготовка конфигурации...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Чтение файла конфигурации...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Файл конфигурации найден
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Чтение файла конфигурации успешно
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Подготовка и валидация конфига...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Значения по умолчанию заполнены
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Конфиг логически корректен
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Конфигурация дополнена и проверена
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Конфигурация готова к работе
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Чтение файла банковской выписки...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Файл банковской выписки найден
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Чтение банковской выписки успешно
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Валидация банковской выписки...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Банковская выписка готова к работе
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Обработка банковских данных...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Валидация данных платежа...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Данные корректны
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Валидация данных платежа...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Данные корректны
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Валидация данных платежа...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Данные корректны
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Валидация данных платежа...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Данные корректны
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Валидация данных платежа...
+2026-05-23T05:49:34+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py Данные корректны
+2026-05-23T05:49:37+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\45c35ce5-ae99-4688-8341-9b61272d955b\main.py
+2026-05-23T05:49:40+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:49:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:50:03+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Подготовка конфигурации...
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Чтение файла конфигурации...
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Файл конфигурации найден
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Чтение файла конфигурации успешно
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Подготовка и валидация конфига...
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Значения по умолчанию заполнены
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Конфиг логически корректен
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Конфигурация дополнена и проверена
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Конфигурация готова к работе
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Чтение файла банковской выписки...
+2026-05-23T05:50:03+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Файл банковской выписки найден
+2026-05-23T05:50:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Чтение банковской выписки успешно
+2026-05-23T05:50:04+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py Валидация банковской выписки...
+2026-05-23T05:50:04+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\31fae647-65bd-49b4-981b-970ee220ab92\main.py В банковской выпеске отсутсвует колонка: Дата
+2026-05-23T05:50:04+0300 INFO: Завершение работы робота
+2026-05-23T05:50:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:51:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:51:14+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Подготовка конфигурации...
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Чтение файла конфигурации...
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Файл конфигурации найден
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Чтение файла конфигурации успешно
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Подготовка и валидация конфига...
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Значения по умолчанию заполнены
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Конфиг логически корректен
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Конфигурация дополнена и проверена
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Конфигурация готова к работе
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Чтение файла банковской выписки...
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Файл банковской выписки найден
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Чтение банковской выписки успешно
+2026-05-23T05:51:14+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py Валидация банковской выписки...
+2026-05-23T05:51:14+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\12360634-1705-4920-9987-fb71861b45c5\main.py В банковской выпеске отсутсвует колонка: Дата
+2026-05-23T05:51:20+0300 INFO: Завершение работы робота
+2026-05-23T05:51:22+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:51:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T05:51:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Подготовка конфигурации...
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Чтение файла конфигурации...
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Файл конфигурации найден
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Чтение файла конфигурации успешно
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Подготовка и валидация конфига...
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Значения по умолчанию заполнены
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Все обязательные поля в конфиге существуют
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Конфиг логически корректен
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Конфигурация дополнена и проверена
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Конфигурация готова к работе
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Чтение файла банковской выписки...
+2026-05-23T05:51:32+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Файл банковской выписки найден
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Чтение банковской выписки успешно
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Валидация банковской выписки...
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Банковская выписка готова к работе
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Обработка банковских данных...
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Валидация данных платежа...
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Данные корректны
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Валидация данных платежа...
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Данные корректны
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Валидация данных платежа...
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Данные корректны
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Валидация данных платежа...
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Данные корректны
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Валидация данных платежа...
+2026-05-23T05:51:33+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py Данные корректны
+2026-05-23T05:51:36+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\5c48944b-6679-44d5-afd7-c1a0b5e205ee\main.py
+2026-05-23T05:51:39+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:28:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:28:47+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Подготовка конфигурации...
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Чтение файла конфигурации...
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Файл конфигурации найден
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Чтение файла конфигурации успешно
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Подготовка и валидация конфига...
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Значения по умолчанию заполнены
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Все обязательные поля в конфиге существуют
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Конфиг логически корректен
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Конфигурация дополнена и проверена
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Конфигурация готова к работе
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Чтение файла банковской выписки...
+2026-05-23T06:28:47+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Файл банковской выписки найден
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Чтение банковской выписки успешно
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Валидация банковской выписки...
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Банковская выписка готова к работе
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Обработка банковских данных...
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Валидация данных платежа...
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Данные корректны
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Валидация данных платежа...
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Данные корректны
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Валидация данных платежа...
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Данные корректны
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Валидация данных платежа...
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Данные корректны
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Валидация данных платежа...
+2026-05-23T06:28:48+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Данные корректны
+2026-05-23T06:28:48+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Сохранение отчёта...
+2026-05-23T06:28:48+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\dd46ac37-1c9e-4ac3-a3e1-2e16c114177a\main.py Таблица результата пустая
+2026-05-23T06:28:48+0300 INFO: Завершение работы робота
+2026-05-23T06:28:48+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:42:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:42:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Подготовка конфигурации...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Чтение файла конфигурации...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Файл конфигурации найден
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Чтение файла конфигурации успешно
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Подготовка и валидация конфига...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Значения по умолчанию заполнены
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Все обязательные поля в конфиге существуют
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Конфиг логически корректен
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Конфигурация дополнена и проверена
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Конфигурация готова к работе
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Чтение файла банковской выписки...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Файл банковской выписки найден
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Чтение банковской выписки успешно
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Валидация банковской выписки...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Банковская выписка готова к работе
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Обработка банковских данных...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Валидация данных платежа...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Данные корректны
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Запись результата...
+2026-05-23T06:42:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Ошибка обработки платежа
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Валидация данных платежа...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Данные корректны
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Запись результата...
+2026-05-23T06:42:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Ошибка обработки платежа
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Валидация данных платежа...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Данные корректны
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Запись результата...
+2026-05-23T06:42:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Ошибка обработки платежа
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Валидация данных платежа...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Данные корректны
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Запись результата...
+2026-05-23T06:42:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Ошибка обработки платежа
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Валидация данных платежа...
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Данные корректны
+2026-05-23T06:42:25+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Запись результата...
+2026-05-23T06:42:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Ошибка обработки платежа
+2026-05-23T06:42:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Сохранение отчёта...
+2026-05-23T06:42:25+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\8619b77a-30d6-46c1-a4ae-2c847a8a8b35\main.py Таблица результата пустая
+2026-05-23T06:42:25+0300 INFO: Завершение работы робота
+2026-05-23T06:42:25+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:43:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:43:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Подготовка конфигурации...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Чтение файла конфигурации...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Файл конфигурации найден
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Чтение файла конфигурации успешно
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Подготовка и валидация конфига...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Значения по умолчанию заполнены
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Все обязательные поля в конфиге существуют
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Конфиг логически корректен
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Конфигурация дополнена и проверена
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Конфигурация готова к работе
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Чтение файла банковской выписки...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Файл банковской выписки найден
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Чтение банковской выписки успешно
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Валидация банковской выписки...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Банковская выписка готова к работе
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Обработка банковских данных...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Валидация данных платежа...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Данные корректны
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись результата...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись успешно добавлена
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Валидация данных платежа...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Данные корректны
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись результата...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись успешно добавлена
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Валидация данных платежа...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Данные корректны
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись результата...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись успешно добавлена
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Валидация данных платежа...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Данные корректны
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись результата...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись успешно добавлена
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Валидация данных платежа...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Данные корректны
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись результата...
+2026-05-23T06:43:39+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Запись успешно добавлена
+2026-05-23T06:43:39+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Сохранение отчёта...
+2026-05-23T06:43:39+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Отчёт успешно сохранён
+2026-05-23T06:43:39+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\640297ea-30cf-4ca0-9689-c82e8ecadfc1\main.py Ошибка: name 'skip_count' is not defined
+2026-05-23T06:43:39+0300 Окно выполнения: main: ERROR:  ["name 'skip_count' is not defined"]
+2026-05-23T06:43:44+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:44:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:44:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Подготовка конфигурации...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Чтение файла конфигурации...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Файл конфигурации найден
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Чтение файла конфигурации успешно
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Подготовка и валидация конфига...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Значения по умолчанию заполнены
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Все обязательные поля в конфиге существуют
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Конфиг логически корректен
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Конфигурация дополнена и проверена
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Конфигурация готова к работе
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Чтение файла банковской выписки...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Файл банковской выписки найден
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Чтение банковской выписки успешно
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Валидация банковской выписки...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Банковская выписка готова к работе
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Обработка банковских данных...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Валидация данных платежа...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Данные корректны
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись результата...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись успешно добавлена
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Валидация данных платежа...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Данные корректны
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись результата...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись успешно добавлена
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Валидация данных платежа...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Данные корректны
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись результата...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись успешно добавлена
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Валидация данных платежа...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Данные корректны
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись результата...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись успешно добавлена
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Валидация данных платежа...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Данные корректны
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись результата...
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Запись успешно добавлена
+2026-05-23T06:44:12+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Сохранение отчёта...
+2026-05-23T06:44:12+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Отчёт успешно сохранён
+2026-05-23T06:44:12+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py Обработка банковской выписки завершена.
+Всего строк: 5
+Успешно: 0
+Ошибок: 0
+Дубликатов: 0
+Пропущено: 0
+2026-05-23T06:44:12+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\a43c289b-3f91-41df-b370-d1456d10a0b8\main.py
+2026-05-23T06:44:13+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:46:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
+2026-05-23T06:46:36+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Подготовка конфигурации...
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Чтение файла конфигурации...
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Файл конфигурации найден
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Чтение файла конфигурации успешно
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Подготовка и валидация конфига...
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Значения по умолчанию заполнены
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Все обязательные поля в конфиге существуют
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Конфиг логически корректен
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Конфигурация дополнена и проверена
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Конфигурация готова к работе
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Чтение файла банковской выписки...
+2026-05-23T06:46:36+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Файл банковской выписки найден
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Чтение банковской выписки успешно
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Валидация банковской выписки...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Все обязательные колонки в банковской выпеске существуют
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Банковская выписка готова к работе
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Обработка банковских данных...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Начата обработка платежа: {'Дата': '2025-04-01', 'Сумма': 15000, 'Тип': 'Поступление', 'Назначение': 'Оплата по счёту №123', 'ИНН_контрагента': 7701234567, 'Расчетный_счет': '40702810400000000123'}
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Валидация данных платежа...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Данные корректны
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись результата...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись успешно добавлена
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Начата обработка платежа: {'Дата': '2025-04-02', 'Сумма': -5000, 'Тип': 'Списание', 'Назначение': 'Аренда офиса', 'ИНН_контрагента': 7707654321, 'Расчетный_счет': '40702810500000000567'}
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Валидация данных платежа...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Данные корректны
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись результата...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись успешно добавлена
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Начата обработка платежа: {'Дата': '2025-04-03', 'Сумма': 25000, 'Тип': 'Поступление', 'Назначение': 'Оплата услуг', 'ИНН_контрагента': 7711111111, 'Расчетный_счет': '40702810600000000999'}
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Валидация данных платежа...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Данные корректны
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись результата...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись успешно добавлена
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Начата обработка платежа: {'Дата': '2025-04-04', 'Сумма': -3200, 'Тип': 'Списание', 'Назначение': 'Оплата интернета', 'ИНН_контрагента': 7722222222, 'Расчетный_счет': '40702810700000000888'}
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Валидация данных платежа...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Данные корректны
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись результата...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись успешно добавлена
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Начата обработка платежа: {'Дата': '2025-04-05', 'Сумма': 7800, 'Тип': 'Поступление', 'Назначение': 'Возврат задолженности', 'ИНН_контрагента': 7733333333, 'Расчетный_счет': '40702810800000000777'}
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Валидация данных платежа...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Данные корректны
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись результата...
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Запись успешно добавлена
+2026-05-23T06:46:37+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Сохранение отчёта...
+2026-05-23T06:46:37+0300 ERROR: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Отчёт успешно сохранён
+2026-05-23T06:46:37+0300 INFO: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py Обработка банковской выписки завершена.
+Всего строк: 5
+Успешно: 0
+Ошибок: 0
+Дубликатов: 0
+Пропущено: 0
+2026-05-23T06:46:37+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\resource\7df22cc5-161a-4c04-958b-72a85fdf6bc2\main.py
+2026-05-23T06:46:37+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\puzzle-rpa-hack\Kейс1_РазнесениеВыписки1С\process\main.json
